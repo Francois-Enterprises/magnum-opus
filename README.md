@@ -1,3 +1,5 @@
 # magnum-opus
 
-Projrct for Francois Enterprises
+Project for Francois Enterprises
+
+Team member: Mike
